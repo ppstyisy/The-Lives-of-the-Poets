@@ -1,0 +1,21 @@
+loading libraries
+```{r}
+#Throughout
+library(tidyverse)
+library(tidytext)
+
+#Strings
+library(stringr)
+library(lubridate)
+
+#Sentiment
+library(gutenburgr)
+library(janeaustenr)
+
+#POS
+library(openNLP)
+library(NLP)
+library(tm)
+
+```
+
