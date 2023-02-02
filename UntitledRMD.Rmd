@@ -17,5 +17,11 @@ library(openNLP)
 library(NLP)
 library(tm)
 
+#Topic Models
+library(topicmodels)
+library(quanteda)
+
+#Word Embedding
+library(text2vec)
 ```
 
